@@ -1,0 +1,25 @@
+.pages{
+  text-align: center;
+  background-color: rgb(180, 125, 125);
+  padding: 20px;
+}
+.nav{
+  display: flex;
+  justify-content: flex-end;
+  background-color: gray;
+  border-radius: 20px;
+  
+}
+li , a {
+   list-style-type: none;
+   margin-left: 40px;
+   text-decoration: none;
+   padding: 20px;
+   color: black;
+   
+   
+  
+}
+body {
+    background-color: rgb(202, 121, 212);
+}
